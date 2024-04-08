@@ -1,0 +1,2 @@
+“Statements are executed in the order (sequence) in which they are encountered. Latter 
+statements can make use of results of former statements; not vice-versa”
